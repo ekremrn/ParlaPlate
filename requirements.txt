@@ -1,0 +1,7 @@
+streamlit
+openai
+pydantic
+pymupdf
+pillow
+numpy
+python-dotenv

@@ -1,0 +1,466 @@
+{
+  "restaurant": {
+    "name": "white_burger",
+    "display_name": "White Burger",
+    "cuisine_tags": [],
+    "price_level": null,
+    "service_style": [],
+    "diet_coverage": [],
+    "popular_categories": [],
+    "summary_text": "White Burger offers BURGERLER, EKSTRALAR, İÇECEKLER with a moderate price range. Features 26 menu items including popular options across different categories."
+  },
+  "items": [
+    {
+      "name": "SIMPLE SMASH BURGER - Single",
+      "price": "259₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Simple Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "simple",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "SIMPLE SMASH BURGER - Double",
+      "price": "379₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Simple Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "double",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "SIMPLE SMASH BURGER - Menü",
+      "price": "+119₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Simple Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "menu",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "TRUFFLE WHITE SMASH BURGER - Single",
+      "price": "279₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Trüffülü White Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "truffle",
+        "white-sauce",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "TRUFFLE WHITE SMASH BURGER - Double",
+      "price": "399₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Trüffülü White Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "truffle",
+        "white-sauce",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "TRUFFLE WHITE SMASH BURGER - Menü",
+      "price": "+119₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Çıtır Soğan",
+        "Trüffülü White Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "truffle",
+        "white-sauce",
+        "menu",
+        "beef",
+        "cheese",
+        "onion",
+        "sauce"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": null
+    },
+    {
+      "name": "CHILI SMASH BURGER - Single",
+      "price": "259₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Jalapeno Biber",
+        "Aci Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "chili",
+        "jalapeno",
+        "hot-sauce",
+        "beef",
+        "cheese"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": "high"
+    },
+    {
+      "name": "CHILI SMASH BURGER - Double",
+      "price": "379₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Jalapeno Biber",
+        "Aci Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "chili",
+        "jalapeno",
+        "hot-sauce",
+        "beef",
+        "cheese"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": "high"
+    },
+    {
+      "name": "CHILI SMASH BURGER - Menü",
+      "price": "+119₺",
+      "ingredients": [
+        "60 g. %100 Dana Kaburga Hamburger Köftesi",
+        "Burger Peynir",
+        "Jalapeno Biber",
+        "Aci Sos"
+      ],
+      "keywords": [
+        "burger",
+        "smash-burger",
+        "chili",
+        "jalapeno",
+        "hot-sauce",
+        "menu",
+        "beef",
+        "cheese"
+      ],
+      "allergens": [],
+      "category": "BURGERLER",
+      "spice_level": "high"
+    },
+    {
+      "name": "PATATES KIZARILMASI",
+      "price": "99₺",
+      "ingredients": [
+        "Patates kizartması"
+      ],
+      "keywords": [
+        "patates",
+        "fries",
+        "fried-potato"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "WHITE PATATES KIZARTMASI",
+      "price": "199₺",
+      "ingredients": [
+        "White patates kizartması"
+      ],
+      "keywords": [
+        "patates",
+        "fries",
+        "white"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "İLAVE BURGER KÖFTESİ",
+      "price": "119₺",
+      "ingredients": [
+        "60 g. Köfte (extra)"
+      ],
+      "keywords": [
+        "extra",
+        "burger-patty",
+        "kofte",
+        "beef"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "İLAVE DİLİM BURGER PEYNİRİ",
+      "price": "19₺",
+      "ingredients": [
+        "15 g. Peyniri (ekstra)"
+      ],
+      "keywords": [
+        "extra",
+        "cheese",
+        "burger-cheese"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "TRÜFLÜ WHITE SOS",
+      "price": "39₺",
+      "ingredients": [
+        "Trüflü White Sos"
+      ],
+      "keywords": [
+        "sauce",
+        "truffle",
+        "white-sauce"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "SIMPLE SOS",
+      "price": "29₺",
+      "ingredients": [
+        "Simple Sos"
+      ],
+      "keywords": [
+        "sauce",
+        "simple"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "ACI SOS",
+      "price": "29₺",
+      "ingredients": [
+        "Aci Sos"
+      ],
+      "keywords": [
+        "sauce",
+        "chili"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": "high"
+    },
+    {
+      "name": "CHEDDAR SOS",
+      "price": "39₺",
+      "ingredients": [
+        "Cheddar Sos"
+      ],
+      "keywords": [
+        "sauce",
+        "cheddar"
+      ],
+      "allergens": [],
+      "category": "EKSTRALAR",
+      "spice_level": null
+    },
+    {
+      "name": "KARA MAYA AYRAN",
+      "price": "59₺",
+      "ingredients": [
+        "Ayran"
+      ],
+      "keywords": [
+        "ayran",
+        "turkish-drink"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "COCA COLA ŞİŞE",
+      "price": "59₺",
+      "ingredients": [
+        "Coca-Cola Şişe"
+      ],
+      "keywords": [
+        "cola",
+        "coca-cola",
+        "soda"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "COCA COLA ZERO ŞİŞE",
+      "price": "59₺",
+      "ingredients": [
+        "Coca-Cola Zero Şişe"
+      ],
+      "keywords": [
+        "cola-zero",
+        "coca-cola"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "SPRITE ŞİŞE",
+      "price": "59₺",
+      "ingredients": [
+        "Sprite Şişe"
+      ],
+      "keywords": [
+        "sprite",
+        "soft-drink"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "FANTA ŞİŞE",
+      "price": "59₺",
+      "ingredients": [
+        "Fanta Şişe"
+      ],
+      "keywords": [
+        "fanta",
+        "soft-drink"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "CAPPY Şeftali-Vişne",
+      "price": "59₺",
+      "ingredients": [
+        "Cappy Şeftali",
+        "Vișne"
+      ],
+      "keywords": [
+        "cappy",
+        "peach",
+        "cherry"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "FUSE TEA Şeftalİ, Limon",
+      "price": "59₺",
+      "ingredients": [
+        "Fuse Tea Şeftali",
+        "Limon"
+      ],
+      "keywords": [
+        "fuse-tea",
+        "peach",
+        "lemon"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "DAMLA SUŞİŞE",
+      "price": "29₺",
+      "ingredients": [
+        "Damla Su Şişe"
+      ],
+      "keywords": [
+        "damla-su",
+        "water-bottle"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    },
+    {
+      "name": "DAMLA MADEN SUYU",
+      "price": "39₺",
+      "ingredients": [
+        "Damla Maden Suyu"
+      ],
+      "keywords": [
+        "damla-maden-suyu",
+        "mineral-water"
+      ],
+      "allergens": [],
+      "category": "İÇECEKLER",
+      "spice_level": null
+    }
+  ]
+}

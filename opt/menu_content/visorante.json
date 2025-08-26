@@ -1,0 +1,1453 @@
+{
+  "restaurant": {
+    "name": "visorante",
+    "display_name": "Visorante",
+    "cuisine_tags": [],
+    "price_level": null,
+    "service_style": [],
+    "diet_coverage": [],
+    "popular_categories": [],
+    "summary_text": "Visorante offers PASTA & RISOTTI, INSALATE, gin with a premium price range. Features 107 menu items including popular options across different categories."
+  },
+  "items": [
+    {
+      "name": "Burrata",
+      "price": "750₺",
+      "ingredients": [
+        "Renkli domatesler",
+        "Reyhan pesto",
+        "Fesleğen yağı"
+      ],
+      "keywords": [
+        "burrata",
+        "antipasti",
+        "italian"
+      ],
+      "allergens": [],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Caprese al Tartufi Visorante",
+      "price": "700₺",
+      "ingredients": [],
+      "keywords": [
+        "caprese",
+        "tartufo",
+        "antipasti"
+      ],
+      "allergens": [],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Bruschetta con Formaggio Stracciatella",
+      "price": "650₺",
+      "ingredients": [
+        "Stracciatella Peyniri Bruschetta",
+        "Ekşi maya ekmegi",
+        "Pesto sos",
+        "Balzamik",
+        "Parmesan"
+      ],
+      "keywords": [
+        "bruschetta",
+        "stracciatella",
+        "antipasti"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten",
+        "nuts"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Carpaccio di Bresaola al Timo Fresco",
+      "price": "950₺",
+      "ingredients": [
+        "Taze kekik",
+        "Bresaola Carpaccio",
+        "Parmesan",
+        "Balzamik",
+        "Roka"
+      ],
+      "keywords": [
+        "carpaccio",
+        "bresaola",
+        "antipasti"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Carpaccio di Manzo con Olive di Campobello",
+      "price": "1250₺",
+      "ingredients": [
+        "Dana Carpaccio",
+        "Olive di Campobello",
+        "Parmesan peyniri",
+        "Trüf mayo"
+      ],
+      "keywords": [
+        "carpaccio",
+        "manzo",
+        "antipasti"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Vitello Tonnato",
+      "price": "950₺",
+      "ingredients": [
+        "Tonnato sos",
+        "Trüf mayonez"
+      ],
+      "keywords": [
+        "vitello",
+        "tonnato",
+        "antipasti"
+      ],
+      "allergens": [],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Peperoni Arrostiti Colorati con Crema di Ricotta",
+      "price": "700₺",
+      "ingredients": [
+        "Crema di Ricotta"
+      ],
+      "keywords": [
+        "peperoni-arrostiti",
+        "ricotta",
+        "antipasti"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Polpo Marinato",
+      "price": "800₺",
+      "ingredients": [
+        "Ahtapot marinato",
+        "Avokado püresi",
+        "Tarhun?"
+      ],
+      "keywords": [
+        "polpo",
+        "octopus",
+        "antipasti"
+      ],
+      "allergens": [],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Carciofi con Albicocche e Prugne Maltate",
+      "price": "750₺",
+      "ingredients": [
+        "Kaysi ile Maltate",
+        "Enginar"
+      ],
+      "keywords": [
+        "carciofi",
+        "artichoke",
+        "antipasti"
+      ],
+      "allergens": [
+        "nuts"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Piatto di Formaggi e Salumi",
+      "price": "1900₺",
+      "ingredients": [
+        "Peynir",
+        "Şarküteri"
+      ],
+      "keywords": [
+        "cheese",
+        "salumi",
+        "antipasti"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "ANTIPASTI",
+      "spice_level": null
+    },
+    {
+      "name": "Cappelletti Frutti di Mare",
+      "price": "1250₺",
+      "ingredients": [
+        "Deniz mahsulleri Cappelletti",
+        "Karides",
+        "Amoretti sos",
+        "Sote kale otu"
+      ],
+      "keywords": [
+        "pasta",
+        "frutti-di-mare",
+        "cappelletti"
+      ],
+      "allergens": [],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Ravioli di Melanzane Affumicate",
+      "price": "1350₺",
+      "ingredients": [
+        "Domates sosu",
+        "Ricotta peyniri"
+      ],
+      "keywords": [
+        "ravioli",
+        "melanzane",
+        "pasta"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Taglielli alla Crema di Tartufi",
+      "price": "1450₺",
+      "ingredients": [
+        "Taglielli",
+        "Crema di Tartufi",
+        "Parmesan"
+      ],
+      "keywords": [
+        "tagliatelle",
+        "tartufo",
+        "pasta"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Agnolotti ai Funghi di Montagna",
+      "price": "1250₺",
+      "ingredients": [
+        "Agnolotti di montagna",
+        "Funghi",
+        "Mantarlı sos"
+      ],
+      "keywords": [
+        "agnolotti",
+        "funghi",
+        "pasta"
+      ],
+      "allergens": [],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Risotto ai Funghi",
+      "price": "1150₺",
+      "ingredients": [
+        "Funghi",
+        "Risotto"
+      ],
+      "keywords": [
+        "risotto",
+        "funghi"
+      ],
+      "allergens": [],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Gnocchetti al Ragù alla Bolognese",
+      "price": "1150₺",
+      "ingredients": [
+        "Gnocchetti",
+        "Ragù alla Bolognese"
+      ],
+      "keywords": [
+        "gnocchi",
+        "ragù",
+        "pasta"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Linguine ai Frutti di Mare",
+      "price": "1250₺",
+      "ingredients": [
+        "Linguine",
+        "Frutti di Mare"
+      ],
+      "keywords": [
+        "linguine",
+        "frutti-di-mare",
+        "pasta"
+      ],
+      "allergens": [],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Risotto con Carne Macinata e Erbe dell'Egeo",
+      "price": "1350₺",
+      "ingredients": [
+        "Carne macinata",
+        "Erbe dell'Egeo",
+        "Risotto"
+      ],
+      "keywords": [
+        "risotto",
+        "carne"
+      ],
+      "allergens": [],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Risotto con Pesce e Formaggio di Capra",
+      "price": "1250₺",
+      "ingredients": [
+        "Pesce",
+        "Formaggio di capra"
+      ],
+      "keywords": [
+        "risotto",
+        "pesce",
+        "capra"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "PASTA & RISOTTI",
+      "spice_level": null
+    },
+    {
+      "name": "Insalata di Panzanella",
+      "price": "650₺",
+      "ingredients": [],
+      "keywords": [
+        "insalata",
+        "panzanella"
+      ],
+      "allergens": [],
+      "category": "INSALATE",
+      "spice_level": null
+    },
+    {
+      "name": "Insalata di Bocconcini con Pomodori Secchi e Formaggio di Capra",
+      "price": "850₺",
+      "ingredients": [
+        "Bocconcini",
+        "Pomodori Secchi",
+        "Formaggio di Capra"
+      ],
+      "keywords": [
+        "insalata",
+        "bocconcini",
+        "pomodori-secchi",
+        "capra"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "category": "INSALATE",
+      "spice_level": null
+    },
+    {
+      "name": "Insalata di Pomodori Estivi",
+      "price": "550₺",
+      "ingredients": [],
+      "keywords": [
+        "insalata",
+        "pomodori-estivi"
+      ],
+      "allergens": [],
+      "category": "INSALATE",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Margherita",
+      "price": "1500t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "margherita"
+      ],
+      "allergens": [
+        "dairy",
+        "nuts",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Funghi",
+      "price": "1300t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "funghi"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Alla Pollo",
+      "price": "1150t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "alla-pollo"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Bistecca con Asparagi",
+      "price": "1400t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "bistecca-con-asparagi"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Alla Diavola",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "alla-diavola",
+        "diavola"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": "high"
+    },
+    {
+      "name": "Pizza Prosciutto",
+      "price": "1500t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "prosciutto"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza con Bacon di Manzo e Rucola",
+      "price": "1400t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "bacon-manzo",
+        "rucola"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Anatolia",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "anatolia"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Burrata",
+      "price": "1650t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "burrata"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Quattro Formaggi",
+      "price": "1350t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "quattro-formaggi"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten",
+        "nuts"
+      ],
+      "category": "Pizza",
+      "spice_level": null
+    },
+    {
+      "name": "Arancini con Carne di Manzo e Formaggio Tulom",
+      "price": "850t",
+      "ingredients": [],
+      "keywords": [
+        "arancini",
+        "manzo",
+        "formaggio"
+      ],
+      "allergens": [],
+      "category": "PASTI INTERMEDI",
+      "spice_level": null
+    },
+    {
+      "name": "Carne di Manzo Impanata",
+      "price": "950t",
+      "ingredients": [],
+      "keywords": [
+        "manzo",
+        "impanata"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "PASTI INTERMEDI",
+      "spice_level": null
+    },
+    {
+      "name": "Branzino alla Griglia con Peperone Arrosto",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "branzino",
+        "griglia"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Salmone Croccante",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "salmone",
+        "croccante"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Filetto di Vitello alla Griglia",
+      "price": "1500t",
+      "ingredients": [],
+      "keywords": [
+        "filetto",
+        "vitello",
+        "griglia"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Carne di Manzo al Limone Cotta al Fuoco di Legna",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "carne",
+        "manzo",
+        "limone"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Carré di Agnello alla Griglia",
+      "price": "1500t",
+      "ingredients": [],
+      "keywords": [
+        "agnello",
+        "griglia"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Pollo alla Milanese",
+      "price": "1100t",
+      "ingredients": [],
+      "keywords": [
+        "pollo",
+        "milanese"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Straccetti Visorante",
+      "price": "1450t",
+      "ingredients": [],
+      "keywords": [
+        "straccetti",
+        "visorante"
+      ],
+      "allergens": [],
+      "category": "I PASTI PRINCIPALI",
+      "spice_level": null
+    },
+    {
+      "name": "Pizza Alla Nutella",
+      "price": "1650t",
+      "ingredients": [],
+      "keywords": [
+        "pizza",
+        "nutella"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "Tiramisu",
+      "price": "700t",
+      "ingredients": [],
+      "keywords": [
+        "tiramisu"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "Freddo Cheesecake",
+      "price": "600t",
+      "ingredients": [],
+      "keywords": [
+        "cheesecake",
+        "dolci"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "Cannoli",
+      "price": "650t",
+      "ingredients": [],
+      "keywords": [
+        "cannoli"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "Limon Sorbe",
+      "price": "550t",
+      "ingredients": [],
+      "keywords": [
+        "limon-sorbe",
+        "sorbet"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "Portakal Sorbe",
+      "price": "550t",
+      "ingredients": [],
+      "keywords": [
+        "portakal-sorbe",
+        "sorbet"
+      ],
+      "allergens": [],
+      "category": "DOLCI",
+      "spice_level": null
+    },
+    {
+      "name": "SMIRNOFF",
+      "price": "600/7200₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "smirnoff"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "SMIRNOFF NORTH",
+      "price": "650/7800₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "smirnoff-north"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "KETEL ONE",
+      "price": "700/8400₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "ketel-one"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "GREY GOOSE",
+      "price": "900/10800₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "grey-goose"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "BELVEDERE",
+      "price": "850/10200₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "belvedere"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "BELUGA NOBLE",
+      "price": "850/10200₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "beluga-noble"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "BELUGA GOLD",
+      "price": "950/11400₺",
+      "ingredients": [],
+      "keywords": [
+        "vodka",
+        "beluga-gold"
+      ],
+      "allergens": [],
+      "category": "vodka",
+      "spice_level": null
+    },
+    {
+      "name": "GORDON'S",
+      "price": "600/7200₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "gordons"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "TANQUERAY",
+      "price": "650/7800₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "tanqueray"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "TANQUERAY 10",
+      "price": "700/8400₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "tanqueray-10"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "TANQUERAY SEVILLA",
+      "price": "650/7800₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "tanqueray-sevilla"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "MONKEY 47",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "monkey-47"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "HENDRICK'S",
+      "price": "800/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "hendricks"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "ROKU",
+      "price": "900/10800₺",
+      "ingredients": [],
+      "keywords": [
+        "gin",
+        "roku"
+      ],
+      "allergens": [],
+      "category": "gin",
+      "spice_level": null
+    },
+    {
+      "name": "CAPT. MORGAN WHITE",
+      "price": "650/7800₺",
+      "ingredients": [],
+      "keywords": [
+        "rum",
+        "capt-morgan-white"
+      ],
+      "allergens": [],
+      "category": "rum",
+      "spice_level": null
+    },
+    {
+      "name": "CAPT. MORGAN GOLD",
+      "price": "700/8400₺",
+      "ingredients": [],
+      "keywords": [
+        "rum",
+        "capt-morgan-gold"
+      ],
+      "allergens": [],
+      "category": "rum",
+      "spice_level": null
+    },
+    {
+      "name": "ZACAPA 23",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "rum",
+        "zacapa-23"
+      ],
+      "allergens": [],
+      "category": "rum",
+      "spice_level": null
+    },
+    {
+      "name": "DIPLOMATICA",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "rum",
+        "diplomatica"
+      ],
+      "allergens": [],
+      "category": "rum",
+      "spice_level": null
+    },
+    {
+      "name": "JW RED LABEL",
+      "price": "600/6600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jw-red-label"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "JW BLACK LABEL",
+      "price": "700/7800₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jw-black-label"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "JW GOLD LABEL",
+      "price": "850/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jw-gold-label"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "JW BLUE LABEL",
+      "price": "1900/2200₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jw-blue-label"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "J&B",
+      "price": "600/6600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "j-b"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "DIMPLE",
+      "price": "700/7200₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "dimple"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "TALISKER 8 Y.O",
+      "price": "850/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "talisker-8-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "LAGAVULIN 8 Y.O",
+      "price": "1300/15600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "lagavulin-8-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "COAL IL 12 Y.O",
+      "price": "700/8400₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "coal-il-12-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "CARDHU 12 Y.O",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "cardhu-12-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "SINGLETON 15 Y.O",
+      "price": "800/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "singleton-15-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "GLENMORANGIE 10 Y.O",
+      "price": "950/10800₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "glenmorangie-10-y-o"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "JAMESON",
+      "price": "800/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jameson"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "BULLEIT BOURBON",
+      "price": "900/10800₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "bulleit-bourbon"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "JACK DANIEL'S",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "jack-daniels"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "CHIVAS 12",
+      "price": "800/9600₺",
+      "ingredients": [],
+      "keywords": [
+        "whiskey",
+        "chivas-12"
+      ],
+      "allergens": [],
+      "category": "whiskey",
+      "spice_level": null
+    },
+    {
+      "name": "DON JULIO BLANCO",
+      "price": "850/10200₺",
+      "ingredients": [],
+      "keywords": [
+        "tequila",
+        "don-julio-blanco"
+      ],
+      "allergens": [],
+      "category": "tequila",
+      "spice_level": null
+    },
+    {
+      "name": "DON JULIO REPOSADO",
+      "price": "950/11400₺",
+      "ingredients": [],
+      "keywords": [
+        "tequila",
+        "don-julio-reposado"
+      ],
+      "allergens": [],
+      "category": "tequila",
+      "spice_level": null
+    },
+    {
+      "name": "DON JULIO 1942",
+      "price": "40000₺",
+      "ingredients": [],
+      "keywords": [
+        "tequila",
+        "don-julio-1942"
+      ],
+      "allergens": [],
+      "category": "tequila",
+      "spice_level": null
+    },
+    {
+      "name": "PATRON ANEJO",
+      "price": "850/10200₺",
+      "ingredients": [],
+      "keywords": [
+        "tequila",
+        "patron-anejo"
+      ],
+      "allergens": [],
+      "category": "tequila",
+      "spice_level": null
+    },
+    {
+      "name": "CASAMIGOS MEZCAL",
+      "price": "750/9000₺",
+      "ingredients": [],
+      "keywords": [
+        "tequila",
+        "casamigos-mezcal"
+      ],
+      "allergens": [],
+      "category": "tequila",
+      "spice_level": null
+    },
+    {
+      "name": "HENNESSY V.S.",
+      "price": "1450/17400₺",
+      "ingredients": [],
+      "keywords": [
+        "cognac",
+        "hennessy-vs"
+      ],
+      "allergens": [],
+      "category": "cognac",
+      "spice_level": null
+    },
+    {
+      "name": "HENNESSY V.S.O.P.",
+      "price": "1700/20400₺",
+      "ingredients": [],
+      "keywords": [
+        "cognac",
+        "hennessy-vsop"
+      ],
+      "allergens": [],
+      "category": "cognac",
+      "spice_level": null
+    },
+    {
+      "name": "HENNESSY X.O.",
+      "price": "2100/25200₺",
+      "ingredients": [],
+      "keywords": [
+        "cognac",
+        "hennessy-xo"
+      ],
+      "allergens": [],
+      "category": "cognac",
+      "spice_level": null
+    },
+    {
+      "name": "EFES 33CL",
+      "price": "350₺",
+      "ingredients": [],
+      "keywords": [
+        "beer",
+        "efes-33cl"
+      ],
+      "allergens": [],
+      "category": "beer",
+      "spice_level": null
+    },
+    {
+      "name": "BOMONTI FILTRESZ 50CL",
+      "price": "400₺",
+      "ingredients": [],
+      "keywords": [
+        "beer",
+        "bomonti-filtresz-50cl"
+      ],
+      "allergens": [],
+      "category": "beer",
+      "spice_level": null
+    },
+    {
+      "name": "HEINEKEN 33CL",
+      "price": "400₺",
+      "ingredients": [],
+      "keywords": [
+        "beer",
+        "heineken-33cl"
+      ],
+      "allergens": [],
+      "category": "beer",
+      "spice_level": null
+    },
+    {
+      "name": "MILLER 33CL",
+      "price": "400₺",
+      "ingredients": [],
+      "keywords": [
+        "beer",
+        "miller-33cl"
+      ],
+      "allergens": [],
+      "category": "beer",
+      "spice_level": null
+    },
+    {
+      "name": "PERONI 33CL",
+      "price": "450₺",
+      "ingredients": [],
+      "keywords": [
+        "beer",
+        "peroni-33cl"
+      ],
+      "allergens": [],
+      "category": "beer",
+      "spice_level": null
+    },
+    {
+      "name": "COLA / COLA ZERO",
+      "price": "120₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "cola",
+        "cola-zero"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "FANTA",
+      "price": "120₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "fanta"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "SPRITE",
+      "price": "120₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "sprite"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "REDBULL",
+      "price": "180₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "redbull"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "ICE TEA",
+      "price": "120₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "ice-tea"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "TONIC",
+      "price": "110₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "tonic"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "SODA",
+      "price": "90₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "soda"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "SU 1L",
+      "price": "120₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "su-1l"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "SAN PELLEGRINO 75 CL",
+      "price": "190₺",
+      "ingredients": [],
+      "keywords": [
+        "soft-drinks",
+        "san-pellegrino",
+        "75cl"
+      ],
+      "allergens": [],
+      "category": "soft-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "TÜRK KAHVESİ",
+      "price": "140₺",
+      "ingredients": [],
+      "keywords": [
+        "hot-drinks",
+        "turk-kahvesi"
+      ],
+      "allergens": [],
+      "category": "hot-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "ESPRESSO",
+      "price": "150₺",
+      "ingredients": [],
+      "keywords": [
+        "hot-drinks",
+        "espresso"
+      ],
+      "allergens": [],
+      "category": "hot-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "CORTADO",
+      "price": "220₺",
+      "ingredients": [],
+      "keywords": [
+        "hot-drinks",
+        "cortado"
+      ],
+      "allergens": [],
+      "category": "hot-drinks",
+      "spice_level": null
+    },
+    {
+      "name": "AMERICANO",
+      "price": "190₺",
+      "ingredients": [],
+      "keywords": [
+        "hot-drinks",
+        "americano"
+      ],
+      "allergens": [],
+      "category": "hot-drinks",
+      "spice_level": null
+    }
+  ]
+}
